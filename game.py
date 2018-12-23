@@ -1,4 +1,5 @@
 import pygame
+import sys
 
 class Game:
   '''
@@ -18,8 +19,28 @@ class Game:
     '''
     print('Game run')
     while True:
-      pass
+      # events
+      for event in pygame.event.get():
+        # exit
+        if event.type == pygame.QUIT: 
+          sys.exit()
+        # key down
+        if event.type == pygame.KEYDOWN:
+          if event.key == pygame.K_ESCAPE:
+            pass
+        # key up
+        if event.type == pygame.KEYUP:
+          if event.key == pygame.K_ESCAPE:
+            pass
+            sys.exit()
       
+      # processing
+      pass
+    
+      # drawing
+      pass
+    
+      # timer      
       pygame.time.delay(self.DELAY)
   
   def mainMenu(self):
