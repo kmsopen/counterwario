@@ -1,0 +1,33 @@
+ 
+G - GROUND
+H - HERO
+1-9 - ENEMIES
+B - BRICKS
+S - SECRETS
+P - PIPES
+C - CLOUDS
+M - EXPLODING BRIDGE
+L - LAVA
+- - BULLETS
+
+LIVES   HEALTH   AMMO   WEAPON   SCORE                                                                                                    
+03      100      90     AK       200                                                                                                      
+
+START
+                                                                                                                                          
+                                                                                                                                          
+          CCC     CC               CCC     CC               CCC     CC               CCC     CC               CCC     CC               CCC
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+                              BSB                                                                                                         
+                                                                                                                                          
+                                                                                                                                        PP
+                                                                                                                                       8PP
+                             BSBSB                          2                                                                           PP
+                                               2           PP                                    PPMMMMMMMMMMMMMMPP       BB            PP
+                                              PP           PP                                    PP              PP       BBBB         9BB
+    H                        1    1           PP        3  PP       3      3                     PP              PP       BBBBBB        PP
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG  GGGGGGGGGGGGG              GGGGGGGGGGGGGGGGGGGGGGGPP
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGLLGGGGGGGGGGGGGLLLLLLLLLLLLLLGGGGGGGGGGGGGGGGGGGGGGGGG
+END
